@@ -1,4 +1,4 @@
-package challenges.collectionframework.list.arraylist;
+package challenges.list.list.arraylist;
 
 import java.util.ArrayList;
 import java.util.List;

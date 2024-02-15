@@ -1,4 +1,4 @@
-package challenges.collectionframework.list.arraylist;
+package challenges.list.list.arraylist;
 //Write a Java program to test an array list is empty or not.
 
 public class Test {

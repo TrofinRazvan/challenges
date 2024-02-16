@@ -1,4 +1,5 @@
 package challenges.list.list.arraylist;
+//Write a Java program to iterate through all elements in an array list.
 
 import java.util.ArrayList;
 import java.util.List;

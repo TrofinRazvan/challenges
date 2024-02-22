@@ -1,19 +1,22 @@
 package challenges.list.list.arraylist;
 //Write a Java program to test an array list is empty or not.
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Test {
 
     public static void main(String[] args) {
-        int[] arr = {};
-        System.out.println(has(arr));
-    }
+        List<Object> objectList = new ArrayList<>();
+        objectList.add("21");
+        objectList.add(21);
+        objectList.add(76);
+        objectList.add(9.000);
 
-    public static boolean has(int[] array) {
-        for (int i = 0; i < array.length; i++) {
-            if (array[i] != 0) {
-                return true;
-            }
+        if (objectList.isEmpty()) {
+            System.out.println("The ArrayList is empty");
+        } else {
+            System.out.println("The ArrayList is not empty.");
         }
-        return false;
     }
 }

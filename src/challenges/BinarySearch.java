@@ -12,7 +12,7 @@ public class BinarySearch {
             System.out.println(target + " does not exist in nums so return -1");
         }
     }
-
+//Time Complexity - O(log n)
     public static int search(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;

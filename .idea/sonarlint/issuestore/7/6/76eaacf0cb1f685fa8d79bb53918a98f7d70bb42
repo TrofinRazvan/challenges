@@ -1,0 +1,15 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "Element '" 4 times.(Ìî†Öúÿÿÿÿ8şÃÁã1
+{
+java:S1192"YDefine a constant instead of duplicating this literal "' not found in the list." 4 times.(Ìî†Öúÿÿÿÿ8ÿÃÁã1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Banana" 3 times.(”àÍ–ıÿÿÿÿ8æü˜Áã1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±¢´Íûÿÿÿÿ8ûü˜Áã1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ìî†Öúÿÿÿÿ8üü˜Áã1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õ³µ8ıü˜Áã1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ìî†Öúÿÿÿÿ8şü˜Áã1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(°†ç8ÄÁã1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(êù¾Áùÿÿÿÿ8ÄÁã1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Í¨ô‘ûÿÿÿÿ8ÄÁã1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(êù¾Áùÿÿÿÿ8ÄÁã1

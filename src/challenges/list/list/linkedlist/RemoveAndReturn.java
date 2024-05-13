@@ -12,6 +12,7 @@ public class RemoveAndReturn {
         list.add(3);
 
         System.out.println(removeFirstElement(list));
+        System.out.println(list);
     }
 
     public static <T> T removeFirstElement(LinkedList<T> linkedList) {
